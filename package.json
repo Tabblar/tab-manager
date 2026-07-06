@@ -1,0 +1,26 @@
+{
+  "name": "tabblar-tab-manager",
+  "version": "1.0.0",
+  "description": "Tab Manager organize, save, and manage your browser tabs across Chrome, Firefox, Edge, and Opera",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "tab-manager",
+    "tabs",
+    "browser",
+    "productivity",
+    "chrome-extension",
+    "workspace",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Tabblar",
+  "license": "ISC",
+  "homepage": "https://tabblar.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabblar/tab-manager.git"
+  }
+}
